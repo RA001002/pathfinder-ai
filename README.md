@@ -1,6 +1,6 @@
-
-AI-Powered Career & Job Matching Platform using Python, TensorFlow, NLP, React
-<img width="1664" height="704" alt="1781855989" src="https://github.com/user-attachments/assets/7514788b-259f-418d-87fe-b41e4a732fe1" /># pathfinder-ai
+# pathfinder-ai 
+Powered Career & Job Matching Platform using Python, TensorFlow, NLP, React
+<img width="1664" height="704" alt="1781855989" src="https://github.com/user-attachments/assets/7514788b-259f-418d-87fe-b41e4a732fe1" />
 
 Developed an AI-powered career platform to semantically match unstructured resumes with open job descriptions.
 Executed using FAISS for millisecond vector search across 2M+ profiles and spaCy for automated skill extraction.
